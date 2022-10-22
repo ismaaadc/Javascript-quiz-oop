@@ -28,6 +28,6 @@ export const data = [
             'PostCSS',
             'NextCSS'
         ],
-        answer: 'PostCSS'
+        answer: 'NextCSS'
     }
 ]
