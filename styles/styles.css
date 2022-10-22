@@ -1,0 +1,24 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #c94b4b; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #c94b4b, #4b134f); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #c94b4b, #4b134f);
+    height: 100vh;
+    align-content: center;
+    display: flex;
+}
+p{
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+.card{
+    border: none !important;
+
+}
+#question{
+    color: #424242;
+    font-weight: bold;
+}
